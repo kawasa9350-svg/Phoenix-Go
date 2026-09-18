@@ -1,14 +1,14 @@
 Package: com.you.pogoobserver
-Version: 0.2.3
+Version: 0.2.4
 Architecture: iphoneos-arm64e
 Maintainer: Kaws
-Installed-Size: 372
+Installed-Size: 376
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: debs/com.you.pogoobserver_0.2.3_iphoneos-arm64e.deb
-Size: 13754
-MD5sum: 656e4317c5d7bc9fbbdbb3cd9785bbed
-SHA1: 18e081afbfaf933fd79f2e5a9cb7464824e1593e
-SHA256: 4194ab418233bd3477ff5b2c0905b2a8cfb50f03ba2135ad5f47ed3cd2a6b8ec
+Filename: debs/com.you.pogoobserver_0.2.4_iphoneos-arm64e.deb
+Size: 13668
+MD5sum: 35270452ef0096df75ef2ab2b843d495
+SHA1: e324e78a9f1e244924b839dafab94aa862771f73
+SHA256: 36593de9aeeb3851cb17c7dddb9608665263a25f783a593307490b5ee4c0ae03
 Section: Tweaks
 Description: On-device GO encounter observer + force-exit fast-catch (rootless).
 Author: Kaws
