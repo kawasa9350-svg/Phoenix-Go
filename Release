@@ -2,19 +2,19 @@ Origin: Phoenix-Go
 Label: Phoenix-Go
 Suite: stable
 Codename: ios
-Date: Sat, 19 Sep 2026 00:54:51 +0000
+Date: Sat, 19 Sep 2026 00:59:11 +0000
 Architectures: iphoneos-arm64e
 Components: main
 Description: Phoenix-Go repo
 MD5Sum:
- 96b16ab763273c793a0810e965aef748 512 Packages
- 5fa889f93a6daf143202ec99a385ff85 384 Packages.gz
- ce5c62fa923e12146b75def8f1075d74 12152 debs/com.you.pogoobserver_0.9.1_iphoneos-arm64e.deb
+ 834decda685cd065e2215dd81752b7c9 512 Packages
+ df0f62129dc4816137ec853f5fa4c38a 384 Packages.gz
+ dbf9b16ed63f3725c12c752359df4acd 13052 debs/com.you.pogoobserver_0.9.2_iphoneos-arm64e.deb
 SHA1:
- 2625ffae4f9831ef9d6597433e16118dc8e11684 512 Packages
- 543711bd3afd1b3c4c88c6822df15652280d9282 384 Packages.gz
- 5d3c93fc4ad4c08adee96d854b22126551a2333e 12152 debs/com.you.pogoobserver_0.9.1_iphoneos-arm64e.deb
+ 14f94c8d5b761e4d92c375dffbd3d189bbf71ffc 512 Packages
+ 4127b89aec94d82889dfc9110523245a456a66bd 384 Packages.gz
+ 84269bdf42f1595b3e599f1e2258141f193ef8ce 13052 debs/com.you.pogoobserver_0.9.2_iphoneos-arm64e.deb
 SHA256:
- def2a03b6c752efa69a6185099a0d8c261a163d1919131c91de9253f7b088458 512 Packages
- 1bbd9ad6cf7da584c024b6dae6d59dbf07500b3cd8fe454a0bcc90f1ba7ada76 384 Packages.gz
- 68f1900cf000cc195ab7d62ed67ef206a24a0b426df34c12965774e4e038aab1 12152 debs/com.you.pogoobserver_0.9.1_iphoneos-arm64e.deb
+ 59a14e4dd7250a742920f5c499f96f1ac1b8677aae8d6ca24a1162023fcb53be 512 Packages
+ 11ccc34e36a31f058edff0d48366ff49eaa9ff6018c5a8489bcedacfa198824a 384 Packages.gz
+ b9405e6edc2bb14b6555e396f3f86d48860db418c8a9ba096e0698c92508cc8a 13052 debs/com.you.pogoobserver_0.9.2_iphoneos-arm64e.deb
