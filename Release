@@ -1,0 +1,20 @@
+Origin: Phoenix-Go
+Label: Phoenix-Go
+Suite: stable
+Codename: ios
+Date: Sun, 27 Sep 2026 17:14:21 +0000
+Architectures: iphoneos-arm64e
+Components: main
+Description: Phoenix-Go repo
+MD5Sum:
+ e551202b9bf82ac18b2c841fb0fbaa15 500 Packages
+ ff388f0904d3f21ea723dc569d66e347 369 Packages.gz
+ 7cad57629949313fcf56ecd111e53504 118160 debs/com.snowfall.utilities_3.0_iphoneos-arm64e.deb
+SHA1:
+ 16eb3c88423dee504c0580669b66474f8c759026 500 Packages
+ 05f22fc52103639ce6227fa8921305c31499b868 369 Packages.gz
+ b69dfe5f1a68a8261a2d8d696c082daa4f776c49 118160 debs/com.snowfall.utilities_3.0_iphoneos-arm64e.deb
+SHA256:
+ ea4dfc71f658a4af8fcf6918268ac76243fb0939cb27508b540720ca5acaf10a 500 Packages
+ 5d83f62e49667ab033ec62a1c6b6e5098ee539f7f2755ccea90a611c39e7b7ad 369 Packages.gz
+ 80e0a358fab487dde228894148221d9e1077d1adb9ccddd782e110fb63e31fa4 118160 debs/com.snowfall.utilities_3.0_iphoneos-arm64e.deb
