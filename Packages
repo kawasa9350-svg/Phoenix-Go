@@ -1,30 +1,30 @@
 Package: com.phoenixgo.clean.source
-Version: 3.7
+Version: 3.8
 Architecture: iphoneos-arm64e
 Maintainer: Phoenix GO
 Installed-Size: 1028
 Depends: mobilesubstrate, firmware (>=14.0)
-Filename: debs/com.phoenixgo.clean.source_3.7_iphoneos-arm64e.deb
-Size: 257248
-MD5sum: d515b20ba75b9496a1681513abf5151b
-SHA1: 80a443ff72be5836104b4495972ca63e14a8a49d
-SHA256: cedbc92e240c8faf5efaf6e47657946da6f326d190090b0422b0c04163e072be
+Filename: debs/com.phoenixgo.clean.source_3.8_iphoneos-arm64e.deb
+Size: 257206
+MD5sum: 82804246634787c2d4b2a510bbb2ec2f
+SHA1: 5a0efbf2d383ac20bec8429910b0b39ba41fdae6
+SHA256: 99ad54f9b7fbaf715ec23aacded7172cdb6dc5eb558cd6f4cfab0b7321ad1ebe
 Section: Tweaks
 Description: Fast catch, auto berry, auto spin, catch-status pill and per-account inventory with viewer for Pokemon GO.
 Author: Phoenix GO
 Name: Phoenix Go
 
 Package: com.phoenixgo.clean.source.rootless
-Version: 3.7
+Version: 3.8
 Architecture: iphoneos-arm64
 Maintainer: Phoenix GO
 Installed-Size: 1028
 Depends: mobilesubstrate, firmware (>=14.0)
-Filename: debs/com.phoenixgo.clean.source.rootless_3.7_iphoneos-arm64.deb
-Size: 257724
-MD5sum: 066058fc3b53c30b06ac37e5822033d3
-SHA1: 587a903d1d2f02f2d7900619f9705b6197f63363
-SHA256: cc4f9fc430f2f632f2d0143b5f1da1e775036a40edfb03f62904fa9c25f5c7a5
+Filename: debs/com.phoenixgo.clean.source.rootless_3.8_iphoneos-arm64.deb
+Size: 257704
+MD5sum: 8bb3a7165845cc65e2902bd64353d360
+SHA1: e74bb519da5bf9b735f1eac368c9794ebd2792a4
+SHA256: 14bc467670f61caa70aae36dc5a2713eba032b216c77dd92d249923cc573b107
 Section: Tweaks
 Description: Fast catch, auto berry, auto spin, catch-status pill and per-account inventory with viewer for Pokemon GO. Rootless build for Dopamine (iOS 15-16).
 Author: Phoenix GO
