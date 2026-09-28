@@ -2,22 +2,22 @@ Origin: Phoenix-Go
 Label: Phoenix-Go
 Suite: stable
 Codename: ios
-Date: Mon, 28 Sep 2026 21:16:22 +0000
+Date: Mon, 28 Sep 2026 21:22:10 +0000
 Architectures: iphoneos-arm64e
 Components: main
 Description: Phoenix-Go repo
 MD5Sum:
- ab55b156d4875c85284e1b4c2a35cd04 1228 Packages
- 541b77798d9ed3cc1979fec683dd61a7 580 Packages.gz
- 8bb3a7165845cc65e2902bd64353d360 257704 debs/com.phoenixgo.clean.source.rootless_3.8_iphoneos-arm64.deb
- 82804246634787c2d4b2a510bbb2ec2f 257206 debs/com.phoenixgo.clean.source_3.8_iphoneos-arm64e.deb
+ 3b70adf6760199d8d056af138d0c7fec 1228 Packages
+ 0664fa3948640780ae94f947e45123c6 579 Packages.gz
+ b6b999af739a7e923bb501b2b1af69b9 257056 debs/com.phoenixgo.clean.source.rootless_3.7_iphoneos-arm64.deb
+ c8d814cf014d117d83850efb9d3c9301 257040 debs/com.phoenixgo.clean.source_3.7_iphoneos-arm64e.deb
 SHA1:
- e99da738d81909ca4359472e57f02c14e69913f7 1228 Packages
- c56b1b36395fa9c228b6d927c9d519c358e3d047 580 Packages.gz
- e74bb519da5bf9b735f1eac368c9794ebd2792a4 257704 debs/com.phoenixgo.clean.source.rootless_3.8_iphoneos-arm64.deb
- 5a0efbf2d383ac20bec8429910b0b39ba41fdae6 257206 debs/com.phoenixgo.clean.source_3.8_iphoneos-arm64e.deb
+ 7dcf70d55308f6d565756a7ef53c5847ce43256c 1228 Packages
+ 1a6c76ed8ff19824fc7ac4ce315c2a25632647ac 579 Packages.gz
+ 5a066a69a782ca05112cc20d28425c605c6d876d 257056 debs/com.phoenixgo.clean.source.rootless_3.7_iphoneos-arm64.deb
+ 6b4d8ed5ba075ce9e49fc60c27eb3a02132b4b08 257040 debs/com.phoenixgo.clean.source_3.7_iphoneos-arm64e.deb
 SHA256:
- 1088f4305ac5a44d823533d440d8d99ff8f3ba08b4f43d6beaa059e8c168bd76 1228 Packages
- 8eb081dbdaf5e978c7486eef65a8b24c3ac47972b91d6d9e203742de239e9975 580 Packages.gz
- 14bc467670f61caa70aae36dc5a2713eba032b216c77dd92d249923cc573b107 257704 debs/com.phoenixgo.clean.source.rootless_3.8_iphoneos-arm64.deb
- 99ad54f9b7fbaf715ec23aacded7172cdb6dc5eb558cd6f4cfab0b7321ad1ebe 257206 debs/com.phoenixgo.clean.source_3.8_iphoneos-arm64e.deb
+ d87a7c93e49ff423697b46932d857dccb0da8779208d1dc9eec4297a023e5030 1228 Packages
+ 16825c01b3496e9d32b0d4e3f8e6c233db250afb3d22bc6cdb11f0731bfc4d16 579 Packages.gz
+ 84bc5c311b6b568ba97e99a3f3a4ac30c6279a3deb32a2bc683cfc542e639ff3 257056 debs/com.phoenixgo.clean.source.rootless_3.7_iphoneos-arm64.deb
+ 29c7e04fdf5efc02eea05fde640d973fbeacd3b4623b010b805a7e08a60e6ffb 257040 debs/com.phoenixgo.clean.source_3.7_iphoneos-arm64e.deb
