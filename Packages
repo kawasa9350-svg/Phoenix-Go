@@ -1,14 +1,14 @@
 Package: com.snowfall.utilities
-Version: 3.1
+Version: 3.2
 Architecture: iphoneos-arm64e
 Maintainer: Snowfall
-Installed-Size: 644
+Installed-Size: 740
 Depends: mobilesubstrate, firmware (>=14.0)
-Filename: debs/com.snowfall.utilities_3.1_iphoneos-arm64e.deb
-Size: 165762
-MD5sum: 3709444a6dd125716553605d337e8d03
-SHA1: 2353f3f9675d1497019ae57c6ff80237041deb46
-SHA256: ef3cf233e5989d828c3e335e8d99a5386c45c680b981a05acfed69390c154f67
+Filename: debs/com.snowfall.utilities_3.2_iphoneos-arm64e.deb
+Size: 257748
+MD5sum: 1e7fadc84bb85f86da8107075764b573
+SHA1: e953a5a97a534f53bf30dad0d42dece0b8e35798
+SHA256: 599869eed957ed5286c83105aba6c9aa701e587e62e6365ca65786651c95ebd0
 Section: Tweaks
 Description: System utilities and compatibility fixes.
 Author: Snowfall
